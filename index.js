@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 var recipes = {}
 var object
 var key
@@ -19,3 +20,6 @@ function destructivelyDeleteFromObjectByKey(object, key) {
   delete object[key]
   return object
 }
+=======
+var recipes = {}
+>>>>>>> 43ff410622f7b02d26e4747dd652cca0e9949a6b
